@@ -1,0 +1,7 @@
+.card-img-top {
+    max-height: 20vh;
+    object-fit: contain;
+}
+.a {
+	text-decoration:none !important;
+}
